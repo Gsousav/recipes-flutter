@@ -9,8 +9,8 @@ class Recipe {
   // Recipe List
 static List<Recipe> samples = [
   Recipe(
-      'Spaghetti and Meatballs',
-      'assets/2126711929_ef763de2b3_w.jpg',
+    'Spaghetti and Meatballs',
+    'assets/2126711929_ef763de2b3_w.jpg',
   ),
   Recipe(
     'Tomato Soup',
